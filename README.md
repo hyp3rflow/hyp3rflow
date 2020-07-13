@@ -2,7 +2,9 @@
 
 [My blog](https://hyperflow.dev)
 
-## 🤔 KU ALPS President (Soon)
+## Now I am ...
+- 🤔 KU ALPS President (Soon)
+- ALT_TAB (KOSMOS) Development Team
 
 <!--
 **hyp3rflow/hyp3rflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
