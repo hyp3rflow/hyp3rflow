@@ -1,5 +1,5 @@
-### Newbie Front-End Developer
-### KU ALPS President (Soon)
+### 🌱 Newbie Front-End Developer
+### 🤔 KU ALPS President (Soon)
 
 <!--
 **hyp3rflow/hyp3rflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
