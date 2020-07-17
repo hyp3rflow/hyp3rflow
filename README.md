@@ -4,7 +4,7 @@
 
 # Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
-- 🤔 KU ALPS President (Soon)
+- KU ALPS (Algorithm Learning & Problem Solving) President (Soon)
 - ALT_TAB (KOSMOS) Development Team
 
 # Programming Stacks
