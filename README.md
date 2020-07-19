@@ -2,12 +2,12 @@
 
 [blog => hyperflow.dev](https://hyperflow.dev)
 
-# Now I am ...
+# 🤔 Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
 - KU ALPS (Algorithm Learning & Problem Solving) President 😎 (Soon)
 - ALT_TAB (KOSMOS) Development Team 🚀
 
-# Programming Stacks
+# 📚 Programming Stacks
 - C/C++ (For Problem Solving)
 - Python
 - HTML / CSS
