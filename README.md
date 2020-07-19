@@ -4,8 +4,8 @@
 
 # Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
-- KU ALPS (Algorithm Learning & Problem Solving) President (Soon)
-- ALT_TAB (KOSMOS) Development Team
+- KU ALPS (Algorithm Learning & Problem Solving) President 😎 (Soon)
+- ALT_TAB (KOSMOS) Development Team 🚀
 
 # Programming Stacks
 - C/C++ (For Problem Solving)
@@ -13,4 +13,4 @@
 - HTML / CSS
 - JavaScript
 - TypeScript
-- React
+- React 💖
