@@ -14,3 +14,9 @@
 - JavaScript
 - TypeScript
 - React 💖
+
+# ✍🏼 Currently Studying
+- Redux
+- React Native
+- PWA
+- After Effects
