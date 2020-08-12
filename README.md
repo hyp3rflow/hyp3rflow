@@ -9,14 +9,10 @@
 
 # 📚 Programming Stacks
 - C/C++ (For Problem Solving)
+- HTML / CSS + TypeScript + React 💖
 - Python
-- HTML / CSS
-- JavaScript
-- TypeScript
-- React 💖
 
 # ✍🏼 Currently Studying
 - Redux
 - React Native
 - PWA
-- After Effects
