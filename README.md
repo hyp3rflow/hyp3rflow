@@ -1,6 +1,6 @@
 # 🌱 Newbie Front-End Developer
 
-[blog => hyperflow.dev](https://hyperflow.dev)
+[blog => blog.hyperflow()](https://hyperflow.dev)
 
 # 🤔 Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
@@ -15,5 +15,5 @@
 # ✍🏼 Currently Studying
 - Redux
 - React Native
-- PWA
-- C++ / Python (For Reinforcement Learning w/ Game Project)
+- Progressive Web App
+- C++ / PyTorch (For Reinforcement Learning w/ Game Project)
