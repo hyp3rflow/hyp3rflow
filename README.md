@@ -18,3 +18,5 @@ Newbie Front-End developer, Software Engineer.
 - React Native
 - Progressive Web App
 - C++ / PyTorch (For Reinforcement Learning w/ Game Project)
+
+> 입개발자가 되지 않기 위해 노력하고 있습니다.
