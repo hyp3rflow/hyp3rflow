@@ -16,3 +16,4 @@
 - Redux
 - React Native
 - PWA
+- C++ / Python (For Reinforcement Learning w/ Game Project)
