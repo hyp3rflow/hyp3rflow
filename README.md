@@ -1,5 +1,6 @@
-# 🌱 hyperflow
-- Yongwook hyperflow Choi
+# 🌱 Who am I ...
+Yongwook hyperflow Choi  
+Newbie Front-End developer, Software Engineer.  
 [blog => blog.hyperflow()](https://hyperflow.dev)
 
 # 🤔 Now I am ...
