@@ -18,6 +18,6 @@ Newbie Front-End developer, Software Engineer.
 - React Native
 - Progressive Web App
 - C++ / PyTorch (For Reinforcement Learning w/ Game Project)
-- Rust /w [utilForever](https://github.com/utilForever) 💖
+- Rust w/ [utilForever](https://github.com/utilForever) 💖
 
 > 입개발자가 되지 않기 위해 노력하고 있습니다.
