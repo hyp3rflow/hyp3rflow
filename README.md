@@ -2,6 +2,7 @@
 Yongwook **hyperflow** Choi  
 Newbie Front-End developer, Software Engineer.  
 [blog => blog.hyperflow()](https://hyperflow.dev)
+***per aspera, ad astra***
 
 # 🤔 Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
