@@ -1,22 +1,18 @@
 # 🌱 Who am I ...
-Yongwook **hyperflow** Choi  
 ***per aspera, ad astra***  
+Yongwook **hyperflow** Choi  
 Newbie Front-End developer, Software Engineer.  
-[blog => blog.hyperflow()](https://hyperflow.dev)  
+**hyperflow => [hyperflow.dev()](https://hyperflow.dev/about)**  
 
 
 # 🤔 Now I am ...
 - Sophomore @ Korea University studying Computer Sciences
 - KU ALPS (Algorithm Learning & Problem Solving) President
-- ALT_TAB (KOSMOS) Development Team Project Manager 🚀
+- KU [KOSMOS](https://github.com/ku-kosmos) Development Team Project Manager 🚀
 
-# 📚 Programming Stacks
-- C/C++ (For Problem Solving)
-- HTML / CSS + TypeScript + React 💖
-- Python
-
-# ✍🏼 Currently Studying
-- Redux
+# 📚✍🏼 Currently Studying
+- React + Redux 💖
+- TypeScript (4.0!)
 - React Native
 - Progressive Web App
 - C++ / PyTorch (For Reinforcement Learning w/ Game Project)
