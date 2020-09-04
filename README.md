@@ -1,5 +1,5 @@
 # 🌱 Who am I ...
-***per aspera, ad astra***  
+### ***per aspera, ad astra***  
 Yongwook **hyperflow** Choi  
 Newbie Front-End developer, Software Engineer.  
 **hyperflow => [hyperflow.dev()](https://hyperflow.dev/about)**  
