@@ -11,7 +11,7 @@ Newbie Front-End developer, Software Engineer.
 - KU [KOSMOS](https://github.com/ku-kosmos) Development Team Project Manager 🚀
 
 # 📚✍🏼 Currently Studying
-- React + Redux 💖
+- React + Redux, MobX 💖
 - TypeScript (4.0!)
 - React Native
 - Progressive Web App
