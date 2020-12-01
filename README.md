@@ -6,6 +6,7 @@ Newbie Front-End developer, Software Engineer.
 
 
 # 🤔 Now I am ...
+- Vice President @ Student council of dept. of Informatics
 - Sophomore @ Korea University studying Computer Sciences
 - KU ALPS (Algorithm Learning & Problem Solving) President
 - KU [KOSMOS](https://github.com/ku-kosmos) Development Team Project Manager 🚀
