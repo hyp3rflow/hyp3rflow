@@ -6,9 +6,9 @@ Newbie Front-End developer, Software Engineer.
 
 
 # 🤔 Now I am ...
-- 고려대학교 정보대학 부학생회장 / Vice President @ Student council of dept. of Informatics
-- 고려대학교 정보대학 컴퓨터학과 2학년 재학 / Sophomore @ Korea University studying Computer Sciences
-- 고려대학교 정보대학 알고리즘학회 회장 / KU ALPS (Algorithm Learning & Problem Solving) President
+- 고려대학교 정보대학 부학생회장 | Vice President @ Student council of dept. of Informatics
+- 고려대학교 정보대학 컴퓨터학과 2학년 재학 | Sophomore @ Korea University studying Computer Sciences
+- 고려대학교 정보대학 알고리즘학회 회장 | KU ALPS (Algorithm Learning & Problem Solving) President
 
 # 📚✍🏼 Currently Studying
 - React + Redux, MobX 💖
