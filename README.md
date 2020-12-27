@@ -16,3 +16,4 @@ Newbie Front-End developer, Software Engineer.
 
 ## Misc
 - [solved.ac](https://solved.ac/profile/hyperflow) profile
+![hyp3rflow solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
