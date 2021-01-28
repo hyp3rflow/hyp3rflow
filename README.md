@@ -14,7 +14,7 @@ Newbie Front-End developer, Software Engineer.
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
-- WEB Backend - Django, NodeJS, Express, NestJS, Google Firebase
+- WEB Backend - NodeJS, Express, TypeORM, MySQL
 - Open-source Dev - C++, PyTorch, Rust
 
 ## Misc
