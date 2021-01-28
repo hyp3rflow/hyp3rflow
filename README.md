@@ -15,7 +15,7 @@ Newbie Front-End developer, Software Engineer.
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
 - WEB Backend - NodeJS, Express, TypeORM, MySQL
-- Open-source Dev - C++, PyTorch, Rust
+- Open-source Dev - Rust, C++
 
 ## Misc
 ![hyp3rflow solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
