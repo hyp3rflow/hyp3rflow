@@ -11,11 +11,13 @@ Newbie Front-End developer, Software Engineer.
 # 👨🏻‍💻 Currently Working on ...
 - KLUE Frontend Developer: [klue.kr](https://klue.kr/)
 - golbang.dev Frontend Developer: [golbang.dev](https://github.com/golbang-dev)
+- waffle.reviews 문화 컨텐츠 리뷰 웹서비스를 개발 중입니다.
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
 - WEB Backend - NodeJS, Express, TypeORM, MySQL
 - Open-source Dev - Rust, C++
+- Infrastructure - AWS(S3, EC2), Google Firebase, Vercel
 
 ## Misc
 ![hyp3rflow solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
