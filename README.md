@@ -10,7 +10,7 @@ Newbie Front-End developer, Software Engineer.
 
 # 👨🏻‍💻 Currently Working on ...
 - KLUE Frontend Developer: [klue.kr](https://klue.kr/)
-- golbang.dev Frontend Developer: [golbang.dev](https://github.com/golbang-dev)
+- Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)
 - waffle.reviews 문화 컨텐츠 리뷰 웹서비스를 개발 중입니다.
 
 # 📚 Currently Studying
