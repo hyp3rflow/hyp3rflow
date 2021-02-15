@@ -11,7 +11,7 @@ Newbie Front-End developer, Software Engineer.
 # 👨🏻‍💻 Currently Working on ...
 - KLUE Frontend Developer: [klue.kr](https://klue.kr/)
 - Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)
-- waffle.reviews 문화 컨텐츠 리뷰 웹서비스를 개발 중입니다.
+- Contents Review Webservice: [Waffle.reviews](https://waffle.reviews)
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
