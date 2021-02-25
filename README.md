@@ -17,7 +17,7 @@ Newbie Front-End developer, Software Engineer.
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
 - WEB Backend - NodeJS, Express, TypeORM, MySQL
 - Open-source Dev - Rust, C++
-- Infrastructure - AWS(S3, EC2), Google Firebase, Vercel
+- Infrastructure - AWS(S3, EC2, Route53, Cloudfront), Google Firebase, Vercel
 
 ## Misc
 ![hyp3rflow solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
