@@ -9,9 +9,9 @@ Newbie Front-End developer, Software Engineer.
 - 고려대학교 정보대학 컴퓨터학과 3학년 재학예정 | Junior @ Korea University studying Computer Sciences
 
 # 👨🏻‍💻 Currently Working on ...
-- KLUE Frontend Developer: [klue.kr](https://klue.kr/)
-- Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)
-- Contents Review Webservice: [Waffle.reviews](https://waffle.reviews)
+- 고려대학교 강의평가 사이트 KLUE | Frontend Developer: [klue.kr](https://klue.kr/)
+- 크로스 플랫폼 게임 엔진 | Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)
+- 문화 컨텐츠 리뷰 플랫폼: [waffle.reviews](https://waffle.reviews)
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
