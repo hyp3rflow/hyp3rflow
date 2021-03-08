@@ -1,12 +1,13 @@
 # 🌱 Who am I ...
 ### ***per aspera, ad astra***  
 Yongwook **hyperflow** Choi  
-Junior Frontend developer @ [riiid](https://www.riiid.co/en/main)  
+Junior Frontend developer @ [Riiid!](https://www.riiid.co/en/main)  
 **hyperflow => [hyperflow.dev()](https://hyperflow.dev/about)**  
 
 # 🤔 Now I am ...
 - 고려대학교 정보대학 부학생회장 | Vice President @ Student council of dept. of Informatics
-- 고려대학교 정보대학 컴퓨터학과 3학년 재학예정 | Junior @ Korea University studying Computer Sciences
+- 고려대학교 정보대학 컴퓨터학과 2학년 수료 | Junior @ Korea University studying Computer Sciences  
+- 산업기능요원 복무예정 @ [Riiid!](https://www.riiid.co/en/main) 
 
 # 👨🏻‍💻 Currently Working on ...
 - 고려대학교 강의평가 사이트 KLUE | Frontend Developer: [klue.kr](https://klue.kr/)
