@@ -1,7 +1,7 @@
 # 🌱 Who am I ...
 ### ***per aspera, ad astra***  
 Yongwook **hyperflow** Choi  
-Junior Front-End developer @ [riiid](https://www.riiid.co/en/main)  
+Junior Frontend developer @ [riiid](https://www.riiid.co/en/main)  
 **hyperflow => [hyperflow.dev()](https://hyperflow.dev/about)**  
 
 # 🤔 Now I am ...
