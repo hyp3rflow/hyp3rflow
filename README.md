@@ -16,6 +16,7 @@ Junior Frontend developer @ [Riiid!](https://www.riiid.co/en/main)
 - 크로스 플랫폼 게임 엔진 | Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)  
 - 일렉트론 기반 데스크탑 플래너 앱 | Electron-based Desktop Planner App: [TART](https://github.com/hyp3rflow/tart)
 - 문화 컨텐츠 리뷰 플랫폼: [waffle.reviews](https://waffle.reviews)
+- 고려대학교 정보대학 학생총투표시스템: KU-Voting (쿠보팅)
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
