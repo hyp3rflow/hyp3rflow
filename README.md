@@ -8,7 +8,8 @@ Junior Frontend developer @ [Riiid!](https://www.riiid.co/en/main)
 - 고려대학교 정보대학 부학생회장 | Vice President @ Student council of dept. of Informatics
 - 고려대학교 정보대학 컴퓨터학과 2학년 수료 | Junior @ Korea University studying Computer Sciences  
 - 주니어 프론트엔드 개발자 | 산업기능요원 복무예정 @ [Riiid!](https://www.riiid.co/en/main) 
-- 요즘은 Kotlin, Elixir을 이용한 마이크로서비스 구축에 관심이 있습니다.
+- 프론트엔드는 react-query와 Svelte에 대해 관심이 있으며,
+- 벡엔드는 Kotlin, Elixir을 이용한 마이크로서비스에 대해 관심이 있습니다.
 
 # 👨🏻‍💻 Currently Working on ...
 - 고려대학교 강의평가 사이트 KLUE | Frontend Developer: [klue.kr](https://klue.kr/)
