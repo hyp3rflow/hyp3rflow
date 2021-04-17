@@ -20,7 +20,7 @@ Junior Frontend developer @ [Riiid](https://www.riiid.co/en/main)
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
 - WEB Backend - NodeJS, Express, TypeORM, MySQL
 - Cross-platform App - React Native, Electron
-- Open-source Dev - Rust, C++
+- Open-source Dev - Rust, C++, Deno!
 - Infrastructure - AWS(S3, EC2, Route53, Cloudfront), Google Firebase, Vercel
 
 ## Misc
