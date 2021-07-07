@@ -4,8 +4,10 @@ Yongwook **hyperflow** Choi
 Software engineer, Frontend developer @ [Riiid](https://www.riiid.co/en/main)  
 **hyperflow => [hyperflow.dev()](https://hyperflow.dev/about)**  
 
-# 🤔 Now I am ...
+# 🤔 I am ...
 - 고려대학교 정보대학 부학생회장 | Vice President @ Student council of dept. of Informatics
+- 고려대학교 웹개발동아리 KWEB 부회장 | Vice President @ KWEB, Korea University Web Master (Club activity for web development)
+- 고려대학교 알고리즘동아리 ALPS (전)회장, (전)부회장 | Former President, Vice President @ ALPS (Club activity for problem solving)
 - 고려대학교 정보대학 컴퓨터학과 2학년 수료 | Junior @ Korea University studying Computer Sciences  
 - Front-end Engineer @ [Riiid](https://www.riiid.co/en/main) | 산업기능요원 복무 중 (2021.04 ~)
 
