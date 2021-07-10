@@ -2,7 +2,7 @@
 ### ***per aspera, ad astra***  
 Yongwook **hyperflow** Choi  
 Software engineer, Frontend developer @ [Riiid](https://www.riiid.co/en/main)  
-**[hrmm.xyz](https://hyperflow.dev/about)**  
+**[hrmm.xyz](https://hrmm.xyz)**  
 
 # 🤔 I am ...
 - 고려대학교 정보대학 부학생회장 | Vice President @ Student council of dept. of Informatics
