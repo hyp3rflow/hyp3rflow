@@ -18,6 +18,7 @@ Software engineer, Frontend developer @ [Riiid](https://www.riiid.co/en/main)
 - 문화 컨텐츠 리뷰 플랫폼, 와플 리뷰 | Digital media contents review platform: [waffle.reviews](https://waffle.reviews)
 - 일렉트론 기반 데스크탑 플래너 앱 | Electron-based Desktop Planner App: [TART](https://github.com/hyp3rflow/tart)
 - 고려대학교 정보대학 학생총투표시스템: KU-Voting (쿠보팅)
+- 고려대학교 정보대학 방탈출 이벤트: ku-info-escape-2021 (프로젝트명, 개발 중)
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
