@@ -1,6 +1,6 @@
 # :sushi: 
 Yongwook Choi. Software engineer, Frontend developer @ **[Riiid](https://www.riiid.co/en/main)**  
-Now making design system, testprep, and productivity utils in Riiid.  
+making design system, testprep, Riiid Tutor, and productivity utils in Riiid.  
 **[hrmm.xyz](https://hrmm.xyz)**
 # :boat:
 Working on Lecture review service in Korea University, **KLUE**: [klue.kr](https://klue.kr/)  
