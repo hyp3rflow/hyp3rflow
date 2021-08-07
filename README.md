@@ -14,11 +14,7 @@ Software engineer, Frontend developer @ [Riiid](https://www.riiid.co/en/main)
 # 👨🏻‍💻 Currently Working on ...
 - 고려대학교 강의평가 사이트 KLUE | Front-end Developer @ Lecture review platform in Korea University, KLUE: [klue.kr](https://klue.kr/)
 - 크로스 플랫폼 게임 엔진 | Cross-platform game engine written in Rust: [Oxide](https://github.com/utilForever/Oxide)  
-- 간단한 디자인을 추구하는 새로운 디자인 시스템, 마루 | Design system for much simpler design: [maru](https://github.com/hyp3rflow/maru) | [Storybook](https://maru.vercel.app)
-- 문화 컨텐츠 리뷰 플랫폼, 와플 리뷰 | Digital media contents review platform: [waffle.reviews](https://waffle.reviews)
-- 일렉트론 기반 데스크탑 플래너 앱 | Electron-based Desktop Planner App: [TART](https://github.com/hyp3rflow/tart)
-- 고려대학교 정보대학 학생총투표시스템: KU-Voting (쿠보팅)
-- 고려대학교 정보대학 방탈출 이벤트: ku-info-escape-2021 (프로젝트명, 개발 중)
+- hrmm.dev
 
 # 📚 Currently Studying
 - WEB Frontend - React, Redux, MobX, TypeScript, Webpack, Rollup, Snowpack
