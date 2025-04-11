@@ -1,5 +1,5 @@
 # :sushi: 
-Yet another PL/SE enthuasist.  
+Yet another PL/SE enthusiast.  
 Software Engineer [@teamprex](https://github.com/teamprex). prev FE/DX engineer @ [Riiid](https://company.riiid.co), [PortOne](https://portone.io).  
 
 **[hrmm.xyz](https://hrmm.xyz)** | [resume](https://github.com/hyp3rflow/resume)
