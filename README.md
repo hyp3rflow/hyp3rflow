@@ -1,6 +1,6 @@
 # :sushi: 
-Yet another PL/SE enthusiast.  
-Software Engineer [@teamprex](https://github.com/teamprex). prev FE/DX engineer @ [Riiid](https://company.riiid.co), [PortOne](https://portone.io).  
+Yet another engineer.  
+Software Engineer [@toss](https://github.com/toss). prev FE/DX engineer @ [Riiid](https://company.riiid.co), [PortOne](https://portone.io), [Flipster](https://flipster.io).  
 
 **[hrmm.xyz](https://hrmm.xyz)** | [resume](https://github.com/hyp3rflow/resume)
 ## :eyes:
