@@ -1,6 +1,6 @@
 # :sushi: 
 Yet another engineer.  
-Software Engineer [@toss](https://github.com/toss). prev FE/DX engineer @ [Riiid](https://company.riiid.co), [PortOne](https://portone.io), [Flipster](https://flipster.io).  
+research intern [visionai@ku](https://visionai.korea.ac.kr). prev FE/DX engineer @ [Riiid](https://company.riiid.co), [PortOne](https://portone.io), [Flipster](https://flipster.io), [Toss](https://toss.im).  
 
 **[hrmm.xyz](https://hrmm.xyz)** | [resume](https://github.com/hyp3rflow/resume)
 ## :eyes:
